@@ -323,29 +323,3 @@ Output directory:
 ```text
 dist
 ```
-
-## Demo Video Checklist
-
-For the 2-5 minute demo video, show:
-
-- Signup or login
-- Create a project as Admin
-- Add a Member by email
-- Create tasks and assign one to the Member
-- Show Todo, In Progress, Done columns
-- Login as Member
-- Show Member can update only assigned task status
-- Show Member cannot edit unassigned tasks
-- Show dashboard counts and overdue/status tracking
-- Show responsive/mobile view briefly
-
-## Final Submission Checklist
-
-- [x] Live Application URL
-- [x] GitHub Repository Link
-- [x] README completed
-- [ ] 2-5 minute demo video
-- [x] Backend deployed
-- [x] Frontend deployed
-- [x] Production environment variables configured
-- [ ] Final Admin and Member test completed on deployed app
