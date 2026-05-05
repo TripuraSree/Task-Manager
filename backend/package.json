@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "REST API for a Supabase-backed task management app.",
   "main": "dist/server.js",
+  "engines": {
+    "node": ">=22"
+  },
   "scripts": {
     "dev": "tsx watch src/server.ts",
     "build": "tsc",
