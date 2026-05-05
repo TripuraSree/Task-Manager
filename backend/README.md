@@ -4,6 +4,10 @@ Express + TypeScript REST API backed by Supabase Postgres and Supabase Auth.
 
 For the full project overview, setup guide, features, deployment notes, and submission checklist, see the root `README.md`.
 
+Live API: https://backend-production-8fe9.up.railway.app
+
+Health Check: https://backend-production-8fe9.up.railway.app/health
+
 ## Setup
 
 1. Create a Supabase project.

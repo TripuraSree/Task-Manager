@@ -4,6 +4,8 @@ React + Vite frontend for the task management app.
 
 For the full project overview, setup guide, features, deployment notes, and submission checklist, see the root `README.md`.
 
+Live Application: https://frontend-production-d8a3.up.railway.app
+
 ## Setup
 
 1. Copy `.env.example` to `.env`.
@@ -15,5 +17,4 @@ For the full project overview, setup guide, features, deployment notes, and subm
 npm install
 npm run dev
 ```
-
 

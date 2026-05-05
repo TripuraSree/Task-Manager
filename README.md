@@ -4,8 +4,10 @@ TaskFlow is a full-stack task management web app where users can create projects
 
 ## Live Links
 
-- Live Application: `Add deployed URL here`
-- GitHub Repository: `Add repository URL here`
+- Live Application: https://frontend-production-d8a3.up.railway.app
+- Backend API: https://backend-production-8fe9.up.railway.app
+- Backend Health Check: https://backend-production-8fe9.up.railway.app/health
+- GitHub Repository: https://github.com/TripuraSree/Task-Manager
 
 ## Features
 
@@ -339,12 +341,11 @@ For the 2-5 minute demo video, show:
 
 ## Final Submission Checklist
 
-- [ ] Live Application URL
-- [ ] GitHub Repository Link
-- [ ] README completed
+- [x] Live Application URL
+- [x] GitHub Repository Link
+- [x] README completed
 - [ ] 2-5 minute demo video
-- [ ] Backend deployed
-- [ ] Frontend deployed
-- [ ] Production environment variables configured
+- [x] Backend deployed
+- [x] Frontend deployed
+- [x] Production environment variables configured
 - [ ] Final Admin and Member test completed on deployed app
-
